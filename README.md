@@ -4,7 +4,7 @@
 
 ‘Grace’s Fortune Teller’ is a physical computing project that functions as a fun, interactive psychic game. Bridging the circuit reveals your fortune, and opening it clears the screen.
 
-###What you need:
+### What you need:
 Arduino Uno R3
 USB-B cable
 Breadboard
@@ -13,7 +13,7 @@ Jumper wires (male-male)
 Computer with Arduino IDE installed
 Optional: Box enclosure
 
-###How to run it:
+### How to run it:
 
 Install Arduino IDE here to run the sketch: https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE 
 Download the .ino file from the repository and open it in Arduino IDE.
@@ -22,7 +22,7 @@ Upload: Select the board (Arduino Uno) in Arduino IDE and the port in the Tools 
 Find the orange jumper wire (replacing the tilt switch) on rows 29 and 30, column a, of the breadboard. When both ends are plugged into the board, a fortune will show on the LCD screen for 4 seconds, with a 2 second pause in-between fortunes. 
 Take one jumper wire end out (does not matter which row) to clear the screen.
 
-###Wiring:
+### Wiring:
 
 Wire the circuit using the list below if you plan on building your own fortune teller:
 LCD RS (pin 4) → Arduino pin 7
