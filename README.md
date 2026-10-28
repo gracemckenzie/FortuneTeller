@@ -10,7 +10,7 @@
 * 20x4 LCD screen with ribbon cable
 * Jumper wires (male-male), plus two male-to-female jumper wires for the switch
 * Computer with the Arduino IDE installed
-* LiquidCrystal library (built into the Arduino IDE, so you don't need to install it)
+* LiquidCrystal library (built into the Arduino IDE, so you don't need to install it). A copy of the LiquidCrystal library (LGPL-2.1 licence) is also included in the LiquidCrystal folder.
 * Optional: box enclosure and tape to display the LCD screen
 
 ## How to run it:
