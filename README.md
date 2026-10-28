@@ -42,15 +42,15 @@ Wire the circuit using the list below if you want to build your own fortune tell
 
 ## Photos:
 
-![Top view of the build](photos/top-view.jpg)
+![Top view of the build](top-view.jpg)
 
 Top view of the build: Arduino Uno Rev3, breadboard, and the LCD wired with the ribbon cable.
 
-![Front view with the wire ends apart](photos/front-view.jpg)
+![Front view with the wire ends apart](front-view.jpg)
 
 Front view with the wire ends apart: the screen is clear.
 
-![A fortune showing on the LCD](photos/fortune.jpg)
+![A fortune showing on the LCD](fortune.jpg)
 
 A fortune showing on the LCD while the wire ends touch.
 
