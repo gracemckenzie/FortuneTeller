@@ -54,6 +54,8 @@ Wire the circuit using the list below if you want to build your own fortune tell
 
 3) A fortune showing on the LCD while the wire ends touch.
 
+Watch or download the short demo video (video/demo_vid.mov)
+
 ## References:
 
 The code was modified from the sources credited in the comments at the top of the sketch, and next to the lines they relate to.
